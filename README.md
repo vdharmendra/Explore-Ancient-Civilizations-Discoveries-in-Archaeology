@@ -21,7 +21,7 @@ The goal of this website is to:
 
 ## 🛠 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (React or Vue, optional)
+- **Frontend:** HTML, CSS
 
 <br>
 <span>👉 Desktop Design</span><br/>
