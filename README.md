@@ -25,17 +25,17 @@ The goal of this website is to:
 
 <br>
 <span>👉 Desktop Design</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/226623773/Ancient-Discoveries-Archaeological-Website" target="_blank" >
 <img src="./img/infoCard.gif" width="575px"/>
 </a>
 
 <span>📸 Desktop Design</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/226623773/Ancient-Discoveries-Archaeological-Website" target="_blank" >
 <img src="./img/infoCard.png" width="325px"/>
 <img src="./img/infoCardHover.png" width="325px"/>
 </a>
 
 <span>Cover</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/226623773/Ancient-Discoveries-Archaeological-Website" target="_blank" >
 <img src="./img/cover.png" width="575px"/>
 </a>
